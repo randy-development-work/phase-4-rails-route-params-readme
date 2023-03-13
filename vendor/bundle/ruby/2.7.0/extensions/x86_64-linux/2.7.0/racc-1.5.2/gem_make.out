@@ -1,0 +1,19 @@
+current directory: /home/randy/Desktop/Development/code/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/randy/Desktop/Development/code/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230313-49718-lxwl4c sitelibdir\=./.gem.20230313-49718-lxwl4c clean
+
+current directory: /home/randy/Desktop/Development/code/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230313-49718-lxwl4c sitelibdir\=./.gem.20230313-49718-lxwl4c
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/randy/Desktop/Development/code/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230313-49718-lxwl4c sitelibdir\=./.gem.20230313-49718-lxwl4c install
+/usr/bin/install -m 0755 cparse.so ./.gem.20230313-49718-lxwl4c/racc
+
+current directory: /home/randy/Desktop/Development/code/phase-4/phase-4-rails-route-params-readme/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230313-49718-lxwl4c sitelibdir\=./.gem.20230313-49718-lxwl4c clean
